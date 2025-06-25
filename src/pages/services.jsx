@@ -1,5 +1,5 @@
 import React from "react";
-import Page3Dback from "../assets/page3Dback.png";
+import Page3Dback from "../assets/Page3Dback.png";
 import AnimatedWrapper from "../components/common/animatedWrapper";
 import Navbar from "../components/layout/navbar";
 import PageLayout from "../components/layout/page-layout";
